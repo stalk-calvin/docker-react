@@ -1,4 +1,4 @@
-# Creating an "create-react-app" with Docker Example
+# Creating a "create-react-app" with Docker Example
 
 ## Quickstart
 
@@ -8,7 +8,7 @@ With docker-compose:
 docker-compose up (-d)
 ```
 
-or you can just build and run using Docker:
+or you can build and run using Docker:
 
 ```
 docker build -t docker-react .
@@ -25,4 +25,4 @@ http://localhost:8080/
 
 I wanted to start my react tutorial with an environment for me to be able to play in. Docker provided me with containers where I can try out a few different containers.
 
-Here is one example of creating an sample react app with Docker.
+Here is one example of creating a sample react app with Docker.
